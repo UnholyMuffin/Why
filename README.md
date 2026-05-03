@@ -3,6 +3,7 @@
 <img width="1349" height="423" alt="image" src="https://github.com/user-attachments/assets/58ea19f0-edc8-4d22-a8fa-9bf9f923d0e4" />
 
 
+
 A PowerShell script to analyze Active Directory account lockouts.  
 It displays all currently locked accounts with details (lockout time, bad password count, etc.) and can investigate a specific user by querying security event 4740 from the PDC emulator for the last 8 hours.
 
