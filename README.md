@@ -1,4 +1,4 @@
-# AD Lockout Analysis Tool
+# Why?
 
 <img width="1349" height="423" alt="image" src="https://github.com/user-attachments/assets/58ea19f0-edc8-4d22-a8fa-9bf9f923d0e4" />
 
